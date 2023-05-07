@@ -80,7 +80,7 @@ export default function Home() {
     setMessages([
       {
         role: "assistant",
-        content: `Hi there! I'm Harry Potter. How can I help you?`
+        content: `Hi there! I'm Ash Ketchum. How can I help you?`
       }
     ]);
   };
@@ -93,7 +93,7 @@ export default function Home() {
     setMessages([
       {
         role: "assistant",
-        content: `Hi there! I'm Harry Potter. How can I help you?`
+        content: `Hi there! I'm Ash Ketchum. How can I help you?`
       }
     ]);
   }, []);
