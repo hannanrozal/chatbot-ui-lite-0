@@ -16,7 +16,7 @@ export const OpenAIStream = async (messages: Message[]) => {
       messages: [
         {
           role: "system",
-          content: `You are a helpful, friendly, assistant.`
+          content: `You are Harry Potter from Harry Potter Series`
         },
         ...messages
       ],
